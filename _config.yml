@@ -84,7 +84,7 @@ links:
     Username: 'harsh98trivedi'
     Color: '#FFFC00'
     Text_Color: '#000000'
-    Icon-Class: fa-light fa-book
+    Icon-Class: fa-solid fa-book
 
     # YOUTUBE
   # - Name: YouTube
