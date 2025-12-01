@@ -57,8 +57,8 @@ links:
     Color: '#b80202'
     Text_Color: '#ffffff'
 
-    # Currículo PDF Completo
-  - Name: CV PDF Completo
+    # Currículo PDF Detalhado
+  - Name: CV PDF Detalhado
     URL: https://raphaelwdrf.github.io/links/assets/files/cvSR-RW-2025_11.pdf
     Icon-Class: fa-solid fa-file-pdf
     Color: '#7a0101'
