@@ -64,6 +64,28 @@ links:
     Color: '#7a0101'
     Text_Color: '#ffffff'
 
+    # EMAIL
+  - Name: Email
+    URL: 'mailto:raphaelwdrf@gmail.com'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
+    Text_Color: '#ffffff'
+
+    # SPOTIFY
+  - Name: Spotify
+    URL: http://open.spotify.com/user
+    Username: 314ihryk3edvtusti6il3oy3x5da
+    Color: '#1DB954'
+    Icon-Class: fab fa-spotify
+
+    # GOODREADS
+  - Name: GoodReads
+    URL: https://www.goodreads.com/raphaelwdrf
+    Username: 'harsh98trivedi'
+    Color: '#FFFC00'
+    Text_Color: '#000000'
+    Icon-Class: fa-light fa-book
+
     # YOUTUBE
   # - Name: YouTube
   #   URL: https://www.youtube.com/channel
@@ -106,13 +128,6 @@ links:
   #   Username: harshtrivedi
   #   Color: '#FF4500'
   #   Icon-Class: fab fa-reddit-alien
-  
-    # EMAIL
-  - Name: Email
-    URL: 'mailto:raphaelwdrf@gmail.com'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
 
   # GOOGLE CALANDER APPOINTMENT
   # - Name: Google Appointment
@@ -266,13 +281,6 @@ links:
   #   Icon-Class: fab fa-figma
   #   Color: '#ff2865'
   #   Text_Color: '#ffffff'
-
-    # SPOTIFY
-  - Name: Spotify
-    URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy3x5da
-    Color: '#1DB954'
-    Icon-Class: fab fa-spotify
 
     # SOUNDCLOUD
   # - Name: SoundCloud
