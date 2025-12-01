@@ -43,12 +43,12 @@ links:
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
 
-    # Currículo Online
-  - Name: CV Online
-    URL: https://raphaelwdrf.github.io/resume/
-    Icon-Class: fas fa-link
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
+  #   # Currículo Online
+  # - Name: CV Online
+  #   URL: https://raphaelwdrf.github.io/resume/
+  #   Icon-Class: fas fa-link
+  #   Color: '#ffb142'
+  #   Text_Color: '#ffffff'
 
     # Currículo PDF Resumo
   - Name: CV PDF Resumo
@@ -73,15 +73,15 @@ links:
 
     # SPOTIFY
   - Name: Spotify
-    URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy3x5da
+    URL: https://open.spotify.com/user/31b7gknglx3todwijocgvavw5hju
+  #  Username: 314ihryk3edvtusti6il3oy3x5da
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
 
     # GOODREADS
   - Name: GoodReads
     URL: https://www.goodreads.com/raphaelwdrf
-    Username: 'harsh98trivedi'
+  #  Username: 'harsh98trivedi'
     Color: '#FFFC00'
     Text_Color: '#000000'
     Icon-Class: fa-solid fa-book
