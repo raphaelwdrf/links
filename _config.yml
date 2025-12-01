@@ -1,8 +1,8 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Raphael Waldemar Dias Ribeiro França
+name: Raphael Waldemar D. R. França
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Olá, sou Raphael França, e acredito em liderança que desenvolve pessoas, estrutura processos e impulsiona resultados.
+tagline: Liderança que desenvolve pessoas, estrutura processos e impulsiona resultados.
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://raphaelwdrf.github.io/links/assets/images/personalPicture.jpg
@@ -39,9 +39,30 @@ links:
     # LINKEDIN
   - Name: LinkedIn
     URL: https://www.linkedin.com
-    Username: mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=harsh98trivedi
+    Username: raphaelwdrf #mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=harsh98trivedi
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
+
+    # Currículo Online
+  - Name: CV Online
+    URL: https://raphaelwdrf.github.io/resume/
+    Icon-Class: fas fa-link
+    Color: '#ffb142'
+    Text_Color: '#ffffff'
+
+    # Currículo PDF Resumo
+  - Name: CV PDF Resumo
+    URL: https://raphaelwdrf.github.io/links/assets/files/cvSR-RW-2025_11_sucinto.pdf
+    Icon-Class: fa-regular fa-file-pdf
+    Color: '#b80202'
+    Text_Color: '#ffffff'
+
+    # Currículo PDF Completo
+  - Name: CV PDF Completo
+    URL: https://raphaelwdrf.github.io/links/assets/files/cvSR-RW-2025_11.pdf
+    Icon-Class: fa-solid fa-file-pdf
+    Color: '#7a0101'
+    Text_Color: '#ffffff'
 
     # YOUTUBE
   # - Name: YouTube
@@ -88,7 +109,7 @@ links:
   
     # EMAIL
   - Name: Email
-    URL: 'mailto:hi@harshtrivedi.in'
+    URL: 'mailto:raphaelwdrf@gmail.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
