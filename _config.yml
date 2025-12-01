@@ -52,14 +52,14 @@ links:
 
     # Currículo PDF Resumo
   - Name: CV PDF Resumo
-    URL: https://raphaelwdrf.github.io/links/assets/files/cvSR-RW-2025_11_sucinto.pdf
+    URL: https://raphaelwdrf.github.io/links/assets/files/cv-RaphaelFranca_sucinto.pdf #cvSR-RW-2025_11_sucinto.pdf
     Icon-Class: fa-regular fa-file-pdf
     Color: '#b80202'
     Text_Color: '#ffffff'
 
     # Currículo PDF Detalhado
   - Name: CV PDF Detalhado
-    URL: https://raphaelwdrf.github.io/links/assets/files/cvSR-RW-2025_11.pdf
+    URL: https://raphaelwdrf.github.io/links/assets/files/cv-RaphaelFranca.pdf #cvSR-RW-2025_11.pdf
     Icon-Class: fa-solid fa-file-pdf
     Color: '#7a0101'
     Text_Color: '#ffffff'
